@@ -1,10 +1,10 @@
 package OOPS;
 
+public class Square {
 
-public class Square extends Area{
-	
-public static void main(String args[])
-{
-	System.out.println("I am a square");
-}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I am a Square");
+	}
+
 }
