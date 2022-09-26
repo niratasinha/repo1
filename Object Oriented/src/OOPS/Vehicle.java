@@ -7,5 +7,6 @@ abstract char type();
 abstract char company();
 abstract int speed();
 
-         
+    
+
 }

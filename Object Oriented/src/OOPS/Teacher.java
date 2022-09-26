@@ -1,5 +1,6 @@
 package OOPS;
 //concrete class-teacher
+
 public class Teacher extends School{
 
 	@Override

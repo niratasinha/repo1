@@ -1,5 +1,6 @@
 package OOPS;
 
+
 public abstract class Bus extends Vehicle{
 
 	@Override

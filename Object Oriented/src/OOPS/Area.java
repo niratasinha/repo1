@@ -1,8 +1,9 @@
 package OOPS;
 
+
 public class Area{
 public void area() 
 {
-	System.out.println("I am a rectangle");
+	System.out.println("I am an Area");
 }
 }
