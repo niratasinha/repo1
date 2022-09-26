@@ -1,5 +1,6 @@
 package OOPS;
 
+
 public class Truck extends Vehicle {
 
 	@Override

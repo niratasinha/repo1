@@ -1,5 +1,6 @@
 package OOPS;
 
+
 public class Rectangle extends Area{
 
 public static void main(String args[])
