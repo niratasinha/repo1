@@ -11,4 +11,10 @@ public class Bus1 extends Bus{
 		
 	}
 
+	@Override
+	int seatnumber() {
+		// TODO Auto-generated method stub
+		return 20;
+	}
+
 }

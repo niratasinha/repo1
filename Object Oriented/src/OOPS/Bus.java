@@ -31,8 +31,9 @@ public abstract class Bus extends Vehicle{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+	
 abstract String type1();
-abstract int ();
-))
+abstract int seatnumber();
+}
 
 

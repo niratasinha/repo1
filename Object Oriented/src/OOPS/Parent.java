@@ -1,7 +1,5 @@
 package OOPS;
 
-public class Parent {
-	package practice;
 
 	//Java Program for Method Overriding
 
@@ -63,4 +61,3 @@ public class Parent {
 		}
 	}
 
-}
