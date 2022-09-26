@@ -1,7 +1,9 @@
 package OOPS;
 
 public class Car extends Vehicle{
-
+{
+	
+	}
 	@Override
 	int modelnumber() {
 		// TODO Auto-generated method stub

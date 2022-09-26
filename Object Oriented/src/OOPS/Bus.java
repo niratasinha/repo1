@@ -1,6 +1,6 @@
 package OOPS;
 
-public class Bus extends Vehicle{
+public abstract class Bus extends Vehicle{
 
 	@Override
 	int modelnumber() {
@@ -31,5 +31,8 @@ public class Bus extends Vehicle{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+abstract String type1();
+abstract int ();
+))
 
-}
+
