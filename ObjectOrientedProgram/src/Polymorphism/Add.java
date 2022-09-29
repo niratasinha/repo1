@@ -13,4 +13,5 @@ public static void main(String args[])
 	a.result(1,2);
 }
 
+
 }

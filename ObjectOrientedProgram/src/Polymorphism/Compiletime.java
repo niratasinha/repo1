@@ -15,4 +15,5 @@ public static void main (String[]args)
 	obj.display(10);
 	obj.display(11,12);
 }
+
 }
