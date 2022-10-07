@@ -7,7 +7,7 @@ public class PrimenumberTest {
 
 public void evaluatesExpression() {
 	Primenumber prime =new Primenumber();
-	String s1 = prime.calc(23);
-	assertEquals("is prime", s1);
+	String s1 = prime.calc(22);
+	assertEquals("is not prime", s1);
 }
 }
